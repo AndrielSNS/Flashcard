@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz com licença em Inglês?',
-    'Com licença em ingles é excuse me (RAI)'
+    'Com licença em ingles é excuse me'
 )
